@@ -1,0 +1,59 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-1",
+      "description": "User avatar 1",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-2",
+      "description": "User avatar 2",
+      "imageUrl": "https://picsum.photos/seed/avatar2/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-3",
+      "description": "User avatar 3",
+      "imageUrl": "https://picsum.photos/seed/avatar3/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "running-card",
+      "description": "A person running on a track",
+      "imageUrl": "https://picsum.photos/seed/running/600/400",
+      "imageHint": "running track"
+    },
+    {
+      "id": "long-jump-card",
+      "description": "A person doing a long jump",
+      "imageUrl": "https://picsum.photos/seed/longjump/600/400",
+      "imageHint": "long jump"
+    },
+    {
+      "id": "sit-ups-card",
+      "description": "A person doing sit-ups",
+      "imageUrl": "https://picsum.photos/seed/situps/600/400",
+      "imageHint": "sit ups"
+    },
+    {
+      "id": "push-ups-card",
+      "description": "A person doing push-ups",
+      "imageUrl": "https://picsum.photos/seed/pushups/600/400",
+      "imageHint": "push ups"
+    },
+    {
+      "id": "high-jump-card",
+      "description": "A person doing a high jump",
+      "imageUrl": "https://picsum.photos/seed/highjump/600/400",
+      "imageHint": "high jump"
+    },
+    {
+      "id": "body-scan-placeholder",
+      "description": "Placeholder for body scan",
+      "imageUrl": "https://picsum.photos/seed/bodyscan/400/600",
+      "imageHint": "body scan"
+    }
+  ]
+}
